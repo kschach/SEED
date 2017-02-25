@@ -91,7 +91,11 @@
 
 #VSLIDE
 ## Duties for First Independent Contractor Agreement
+
+#VSLIDE
 - Complete the research training on February 25, 2017.<!-- .element: class="fragment" -->
+
+#VSLIDE
 - Conducting one interview with a financially vulnerable group plan subscriber:<!-- .element: class="fragment" -->
     - Recruitment and scheduling<!-- .element: class="fragment" -->
     - Interview<!-- .element: class="fragment" --> 
@@ -101,12 +105,12 @@
     - Phone or in-person check-in with Research Coordinator<!-- .element: class="fragment" -->
 
 #VSLIDE
-## Independent Contractor Payment
+## Payment
 - $20 / hour up to a maximum per contract<!-- .element: class="fragment" -->
 - Initial payment after attending training<!-- .element: class="fragment" -->
 - Subsequent payment after completing interview, data entry, and check-in<!-- .element: class="fragment" -->
 
 #VSLIDE
 ## Future Plans
-- Potential for subsequent contract to conduct 5-10 additional interviews<!-- .element: class="fragment" -->
+- Potential for subsequent contracts to conduct 5-10 additional interviews<!-- .element: class="fragment" -->
 - To be discussed with SEED after initial contract<!-- .element: class="fragment" -->

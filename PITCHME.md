@@ -1,4 +1,4 @@
-## Group RESP Research and Education Project<!-- .element: class="fragment" -->
+## Group RESP Research and Education Project
 
 #HSLIDE
 ## Identifying a Group RESP
@@ -18,13 +18,18 @@
     - Group plan promoters<!-- .element: class="fragment" -->
 
 #VSLIDE
-## Group Plan Promoters<!-- .element: class="fragment" -->
+## Group Plan Promoters
 - Canadian Scholarship Trust<!-- .element: class="fragment" -->
 - Children's Education Funds (CEFI)<!-- .element: class="fragment" -->
 - Global RESP Corporation<!-- .element: class="fragment" -->
 - Heritage Education Funds<!-- .element: class="fragment" -->
 - Knowledge First Financial<!-- .element: class="fragment" -->
 - Universitas<!-- .element: class="fragment" -->
+
+#VSLIDE
+## Group Plan Promoter Structure
+- Non-profit foundation<!-- .element: class="fragment" -->
+- For-profit scholarship dealer<!-- .element: class="fragment" -->
 
 #VSLIDE
 ## Group Plan Promoters Offer Multiple Plans

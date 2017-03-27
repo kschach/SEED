@@ -40,8 +40,7 @@
 
 #HSLIDE
 ## Socioeconomic Justice through the Welfare State
-- Is the welfare state an effective lever for justice and life-value?<!-- .element: class="fragment" --> 
-- Is access to the current complement of welfare state benefits sufficient?<!-- .element: class="fragment" -->  
+- Is the welfare state an effective lever for social justice?<!-- .element: class="fragment" --> 
 
 #VSLIDE
 ### Marshall (1949) - Social Citizenship
@@ -133,8 +132,9 @@ the life of a civilised being according to the standards prevailing in the socie
 ### Implications for Access to Benefit programs
 - Potential benefits:<!-- .element: class="fragment" -->
     - cross-sectoral partnerships that leverage the comparative advantages of each sector in service of a common good ("collective impact")<!-- .element: class="fragment" -->
-    - solving the "last mile" problem (Prosper Canada)
+    - solving the "last mile" problem (Prosper Canada)<!-- .element: class="fragment" -->
 
+#VSLIDE
 ### Implications for Access to Benefit programs
 - Hazards of devolution:<!-- .element: class="fragment" -->
     - Could result in reduction in the status of benefits: from entitlement to charitable aid (Wolch 1989; Roy 2004) <!-- .element: class="fragment" -->
@@ -152,10 +152,11 @@ the life of a civilised being according to the standards prevailing in the socie
 ## As a Social Service
 - Federal funding through OEO "war on poverty" community action programs<!-- .element: class="fragment" --> 
 - Supports to gain access to state social assistance programs<!-- .element: class="fragment" --> 
+- Some parallels to EIA advocacy work<!-- .element: class="fragment" -->
 
 #VSLIDE
 ## As a Social Movement
-- Oppositional approach (direct action, protest, legal action)<!-- .element: class="fragment" -->
+- Oppositional approach (direct action, protest, legal action, advocacy)<!-- .element: class="fragment" -->
 - Diverse actors: people with lived experience, social workers, academics, lawyers, federal government funding<!-- .element: class="fragment" -->
 
 #VSLIDE
@@ -177,11 +178,12 @@ the life of a civilised being according to the standards prevailing in the socie
 - Benefit insufficiency<!-- .element: class="fragment" -->
 - Benefit inaccessibility<!-- .element: class="fragment" -->
 - Disempowering / stigmatizing treatment<!-- .element: class="fragment" -->
+- Because of structural injustice, some groups more likely to face these additional injustices<!-- .element: class="fragment" -->
 
 #VSLIDE
-### Remedies and Strategies for Addressing Injustice (Fraser)
-- Remedies: redistribution and recognition<!-- .element: class="fragment" -->
-- Strategies: affirmation and transformation<!-- .element: class="fragment" -->
+### Strategies for Addressing Injustice (Fraser)
+- Affirmation<!-- .element: class="fragment" -->
+- Transformation<!-- .element: class="fragment" -->
 
 #VSLIDE
 ### Non-Profit Social Service Provision
@@ -189,6 +191,7 @@ the life of a civilised being according to the standards prevailing in the socie
 - Reliance upon funding<!-- .element: class="fragment" -->
 - Flexibility, local focus, can try innovative program delivery approaches<!-- .element: class="fragment" -->
 
+#VSLIDE
 ### Questions
 - Which injustices do we seek to address?<!-- .element: class="fragment" -->
 - ...through which activities?<!-- .element: class="fragment" -->

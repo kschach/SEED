@@ -87,7 +87,7 @@ the life of a civilised being according to the standards prevailing in the socie
 - Benefit insufficiency<!-- .element: class="fragment" -->
 - Benefit inaccessibility<!-- .element: class="fragment" -->
 - Disempowering / stigmatizing treatment<!-- .element: class="fragment" -->
-- Structural inequalities endure<!-- .element: class="fragment" -->
+- Structural inequalities endure -- some groups more likely than others to face these barriers<!-- .element: class="fragment" -->
 
 #VSLIDE
 ### Key Question
@@ -138,11 +138,10 @@ the life of a civilised being according to the standards prevailing in the socie
 ### Implications for Access to Benefit programs
 - Hazards of devolution:<!-- .element: class="fragment" -->
     - Could result in reduction in the status of benefits: from entitlement to charitable aid (Wolch 1989; Roy 2004) <!-- .element: class="fragment" -->
-    - "statization" (Wolch 1989:217) and "neoliberalization" (Woolford and Curran 2011:589) of civil society<!-- .element: class="fragment" -->
 
 #VSLIDE
 ## Key Question
-- How does our position as a "shadow state" agency enable / constrain our options?<!-- .element: class="fragment" -->
+- How does our position as a "shadow state" agency expand / constrain our options?<!-- .element: class="fragment" -->
 
 #HSLIDE
 ## Case Study: The 1960s U.S. Welfare Rights Movement
@@ -178,7 +177,7 @@ the life of a civilised being according to the standards prevailing in the socie
 - Benefit insufficiency<!-- .element: class="fragment" -->
 - Benefit inaccessibility<!-- .element: class="fragment" -->
 - Disempowering / stigmatizing treatment<!-- .element: class="fragment" -->
-- Because of structural injustice, some groups more likely to face these additional injustices<!-- .element: class="fragment" -->
+- *Because of structural injustice, some groups more likely to face these additional injustices*<!-- .element: class="fragment" -->
 
 #VSLIDE
 ### Strategies for Addressing Injustice (Fraser)
@@ -196,4 +195,4 @@ the life of a civilised being according to the standards prevailing in the socie
 - Which injustices do we seek to address?<!-- .element: class="fragment" -->
 - ...through which activities?<!-- .element: class="fragment" -->
 - ...following which strategies?<!-- .element: class="fragment" -->
-- ...recognizing the resources and constraints we face as a non-profit.<!-- .element: class="fragment" -->
+- ...recognizing our resources and constraints as a non-profit organization.<!-- .element: class="fragment" -->

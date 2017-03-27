@@ -1,121 +1,196 @@
-## Group RESP Research and Education Project
+## Socioeconomic Justice through the Non-profit Sector?<!-- .element: class="fragment" -->
+### Access to Benefits Programs in Winnipeg, MB<!-- .element: class="fragment" -->
 
 #HSLIDE
-## Identifying a Group RESP
 
-#VSLIDE
-## Distinctions
-- RRSPs (Retirement) vs. RESPs (Education)<!-- .element: class="fragment" -->
-- Individual or Family Plan RESPs vs. Group RESPs<!-- .element: class="fragment" -->
+## Research Questions
 
-#VSLIDE
-## RESP Promoters
-- Over 80 promoters<!-- .element: class="fragment" -->
-- Classified as:<!-- .element: class="fragment" -->
-    - Investment services<!-- .element: class="fragment" -->
-    - Insurance / other firms<!-- .element: class="fragment" -->
-    - Banking services<!-- .element: class="fragment" -->
-    - Group plan promoters<!-- .element: class="fragment" -->
+- What is the theory of change underlying non-profit access to benefits programs?<!-- .element: class="fragment" -->
 
-#VSLIDE
-## Group Plan Promoters
-- Canadian Scholarship Trust<!-- .element: class="fragment" -->
-- Children's Education Funds (CEFI)<!-- .element: class="fragment" -->
-- Global RESP Corporation<!-- .element: class="fragment" -->
-- Heritage Education Funds<!-- .element: class="fragment" -->
-- Knowledge First Financial<!-- .element: class="fragment" -->
-- Universitas<!-- .element: class="fragment" -->
+- How can non-profit access to benefits programs contribute to socioeconomic justice?<!-- .element: class="fragment" -->
 
-#VSLIDE
-## Group Plan Promoter Structure
-- Non-profit foundation<!-- .element: class="fragment" -->
-- For-profit scholarship dealer<!-- .element: class="fragment" -->
-
-#VSLIDE
-## Group Plan Promoters Offer Multiple Plans
-- For example: Canadian Scholarship Trust<!-- .element: class="fragment" -->
-    - Group Scholarship Plan 2001<!-- .element: class="fragment" -->
-    - Individual Savings Plan<!-- .element: class="fragment" -->
-    - Family Savings Plan<!-- .element: class="fragment" -->
-
-#VSLIDE
-## Group Plan Promoters Offer Multiple Plans
-- For example: Children's Education Funds (CEFI)<!-- .element: class="fragment" -->
-    - Group Option Plan<!-- .element: class="fragment" -->
-    - Self-Initiated Option Plan<!-- .element: class="fragment" -->
-    - Achievers Plan<!-- .element: class="fragment" -->
-
-#VSLIDE
-## Features of Group Plan RESPs
-- Pooled (or grouped) investments<!-- .element: class="fragment" -->
-- Investment "units"<!-- .element: class="fragment" -->
-- Fixed contribution schedule<!-- .element: class="fragment" -->
-- Front-end loaded enrollment fees<!-- .element: class="fragment" -->
-- Stricter eligibility requirements for beneficiaries<!-- .element: class="fragment" -->
-
-#VSLIDE
-## Not sure if a plan is a Group Plan?
-- Check with Kevin!<!-- .element: class="fragment" -->
+- Is government investment in non-profit access to benefits programs a sign of progress towards socioeconomic justice, or evidence of the offloading of public responsibility for social welfare?<!-- .element: class="fragment" -->
 
 #HSLIDE
-## Research and Education Goals
 
-#VSLIDE
-## For community members who do not have RESPs:
-- Materials to help make an informed decision about education savings.<!-- .element: class="fragment" -->
-    - Plain language guides explaining rules and restrictions<!-- .element: class="fragment" -->
-    - A checklist of key questions to ask before opening an RESP<!-- .element: class="fragment" -->
-
-#VSLIDE
-## For community members enrolled in Group Plan RESPs:
-- Materials to help understand and make an informed decision about their RESPs<!-- .element: class="fragment" -->
-    - Plain language guides explaining rules and restrictions<!-- .element: class="fragment" -->
-    - Public legal education materials that help people determine their options<!-- .element: class="fragment" -->
-
-#VSLIDE
-## For service providers:
-- Materials to support their work with community members<!-- .element: class="fragment" -->
-
-#VSLIDE
-## For public knowledge:
-- Document the experiences of financially vulnerable group RESP subscribers:<!-- .element: class="fragment" -->
-    - in Winnipeg<!-- .element: class="fragment" -->
-    - in Calgary<!-- .element: class="fragment" -->
-    - in Toronto<!-- .element: class="fragment" -->
-- Better understand the field of post-secondary education savings in Canada:<!-- .element: class="fragment" -->
-    - Key person interviews<!-- .element: class="fragment" -->
+## Methods
+- Literature review<!-- .element: class="fragment" -->
+- Key person interviews in Winnipeg, MB<!-- .element: class="fragment" -->
 
 #HSLIDE
-## Community-Based Researchers
+
+## Key Concepts and Tensions
+
+#HSLIDE
+
+## Socioeconomic Justice
+- What is socioeconomic justice?<!-- .element: class="fragment" -->
+- How can it be attained?<!-- .element: class="fragment" -->
 
 #VSLIDE
-## Goals
-- Support recruitment and conduct interviews<!-- .element: class="fragment" -->
-- Increase community participation in the research process<!-- .element: class="fragment" -->
-- Bring in community expertise<!-- .element: class="fragment" -->
+
+### Fraser (1997)
+- Injustice: socioeconomic and sociocultural<!-- .element: class="fragment" -->
+- Remedies: redistribution and recognition<!-- .element: class="fragment" -->
+- Strategies: affirmation and transformation<!-- .element: class="fragment" -->
 
 #VSLIDE
-## Duties for First Independent Contractor Agreement
+### Key Question
+- Which strategies are employed by A to B (affirmation / transformation)?
+
+#HSLIDE
+## Socioeconomic Justice through the Welfare State
+- Is the welfare state an effective lever for justice and life-value?<!-- .element: class="fragment" --> 
+- Is access to the current complement of welfare state benefits sufficient?<!-- .element: class="fragment" -->  
 
 #VSLIDE
-- Complete the research training on February 25, 2017.<!-- .element: class="fragment" -->
+### Marshall (1949) - Social Citizenship
+- Normative statement for social citizenship through the welfare state<!-- .element: class="fragment" --> 
+- "the right to a modicum of economic welfare and security" (1950:11)<!-- .element: class="fragment" -->
+- "the right to share to the full in the social heritage and to live
+the life of a civilised being according to the standards prevailing in the society" (1950:11)<!-- .element: class="fragment" -->
 
 #VSLIDE
-- Conducting one interview with a financially vulnerable group plan subscriber:<!-- .element: class="fragment" -->
-    - Recruitment and scheduling<!-- .element: class="fragment" -->
-    - Interview<!-- .element: class="fragment" --> 
-    - Taking interview notes (on paper or directly into SurveyMonkey)<!-- .element: class="fragment" -->
-    - Data entry into SurveyMonkey<!-- .element: class="fragment" -->
-    - Submitting a paper copy of the data to SEED<!-- .element: class="fragment" -->
-    - Phone or in-person check-in with Research Coordinator<!-- .element: class="fragment" -->
+### Liberal Welfare State
+- Does not grant and protect the rights of social citizenship<!-- .element: class="fragment" -->
+- Poor laws / principle of "less eligibility" (Piven and Cloward 1993:34-35)<!-- .element: class="fragment" -->
+- Measures of last resort rather than rights<!-- .element: class="fragment" -->
 
 #VSLIDE
-## Payment
-- $20 / hour up to a maximum per contract<!-- .element: class="fragment" -->
-- Initial payment after attending training<!-- .element: class="fragment" -->
-- Subsequent payment after completing interview, data entry, and check-in<!-- .element: class="fragment" -->
+### Welfare State as Social Control (Piven and Cloward 1993)
+- Welfare state function: to regulate the supply of labour<!-- .element: class="fragment" -->
+- Expansion in response to political turmoil rather than social need<!-- .element: class="fragment" -->
+- Contraction once order and conditions for accumulation are restored<!-- .element: class="fragment" -->
 
 #VSLIDE
-## Future Plans
-- Potential for subsequent contracts to conduct 5-10 additional interviews<!-- .element: class="fragment" -->
-- To be discussed with SEED after initial contract<!-- .element: class="fragment" -->
+### Inequalities within the Welfare State
+- Fiscal welfare vs. social welfare (Abramovitz 1983/2001; Titmuss 1965).<!-- .element: class="fragment" -->
+- Social insurance vs. social assistance (Olsen 2002; Gordon 1994)<!-- .element: class="fragment" -->
+- The latter are:<!-- .element: class="fragment" -->
+    - Less generous<!-- .element: class="fragment" -->
+    - More controlling<!-- .element: class="fragment" -->
+    - Stigmatized in public discourse<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Axes of Inequality
+- Gender (Gordon 1994; Piven and Cloward 1993; Abramovitz 1988; Morgen, Acker, and Weigt 2009)<!-- .element: class="fragment" -->
+- 'Race' and ethnicity (Piven and Cloward 1993; Quadagno 1994)<!-- .element: class="fragment" -->
+- Indigeneity (MacDonald 2011)<!-- .element: class="fragment" -->
+- Citizenship status and duration of residency<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Barriers to Access
+- Bureaucratic disentitlement (Lipsky 1984)<!-- .element: class="fragment" -->
+- Bureaucratic discretion / "street-level bureaucracy" (Lipsky 1980)<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Summary - Welfare State Problems
+- Benefit insufficiency<!-- .element: class="fragment" -->
+- Benefit inaccessibility<!-- .element: class="fragment" -->
+- Disempowering / stigmatizing treatment<!-- .element: class="fragment" -->
+- Structural inequalities endure<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Key Question
+- Which of these problems does A to B seek to address?<!-- .element: class="fragment" -->
+
+#HSLIDE
+## Socioeconomic Justice through the Shadow State
+- Is government and philanthropic investment in non-profit social service provision a promising strategy for increasing access to benefits by financially vulnerable community members?<!-- .element: class="fragment" -->
+- What are the benefits and drawbacks of this model?<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Key Concepts
+- "third-party government" (Salamon 1995)<!-- .element: class="fragment" -->
+- "hollow state" (Milward 1994)<!-- .element: class="fragment" -->
+- "offloading" / "devolution"<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Potential Benefits
+- Increased availability of social welfare programs and services<!-- .element: class="fragment" -->
+- Greater opportunities for local control and participation in social services<!-- .element: class="fragment" -->
+- Flexibility to adapt local conditions<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Potential Drawbacks
+- "philanthropic insufficiency" (Salamon 1995)<!-- .element: class="fragment" -->
+    - Non-profit sector has marginal reach and capacity compared to the state<!-- .element: class="fragment" -->
+    - Problems with securing funding without recourse to taxation (via government contracts, philanthropic funding, business activities, user fees)<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Potential Drawbacks
+- "philanthropic paternalism" (Salamon 1995)<!-- .element: class="fragment" -->
+    - May need to tailor programs to match donor and government priorities rather than local needs<!-- .element: class="fragment" -->
+- "philanthropic particularism" (Salamon 1995)<!-- .element: class="fragment" -->
+    - No universal mandate<!-- .element: class="fragment" -->
+    - Can cater to particular demographics, specific geographic areas<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Shadow State (Wolch 1989:201)
+*a para-state apparatus with collective service responsibilities previously shouldered by the public sector, administered outside democratic politics, but yet controlled in both formal and informal ways by the state.*<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Implications for Access to Benefit programs
+- Potential benefits:<!-- .element: class="fragment" -->
+    - cross-sectoral partnerships that leverage the comparative advantages of each sector in service of a common good ("collective impact")<!-- .element: class="fragment" -->
+    - solving the "last mile" problem (Prosper Canada)
+
+### Implications for Access to Benefit programs
+- Hazards of devolution:<!-- .element: class="fragment" -->
+    - Could result in reduction in the status of benefits: from entitlement to charitable aid (Wolch 1989; Roy 2004) <!-- .element: class="fragment" -->
+    - "statization" (Wolch 1989:217) and "neoliberalization" (Woolford and Curran 2011:589) of civil society<!-- .element: class="fragment" -->
+
+#VSLIDE
+## Key Question
+- How does our position as a "shadow state" agency enable / constrain our options?<!-- .element: class="fragment" -->
+
+#HSLIDE
+## Case Study: The 1960s U.S. Welfare Rights Movement
+- Response to deep poverty and lack of access to welfare by people of colour / single mothers<!-- .element: class="fragment" -->
+
+#VSLIDE
+## As a Social Service
+- Federal funding through OEO "war on poverty" community action programs<!-- .element: class="fragment" --> 
+- Supports to gain access to state social assistance programs<!-- .element: class="fragment" --> 
+
+#VSLIDE
+## As a Social Movement
+- Oppositional approach (direct action, protest, legal action)<!-- .element: class="fragment" -->
+- Diverse actors: people with lived experience, social workers, academics, lawyers, federal government funding<!-- .element: class="fragment" -->
+
+#VSLIDE
+## Connecting Social Service with Social Change
+- Piven and Cloward "The Weight of the Poor: A Strategy to End Poverty"<!-- .element: class="fragment" --> 
+- Hypothesis: a mass increase in state welfare rolls could create a funding crisis and state pressure for a federal guaranteed annual income<!-- .element: class="fragment" --> 
+
+#VSLIDE
+## Results
+- Increased access to welfare<!-- .element: class="fragment" -->
+- No guaranteed annual income<!-- .element: class="fragment" -->
+- Backlash: retrenchment, racism<!-- .element: class="fragment" -->
+
+#HSLIDE
+## Summary 
+
+#VSLIDE
+### Three Welfare State Injustices
+- Benefit insufficiency<!-- .element: class="fragment" -->
+- Benefit inaccessibility<!-- .element: class="fragment" -->
+- Disempowering / stigmatizing treatment<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Remedies and Strategies for Addressing Injustice (Fraser)
+- Remedies: redistribution and recognition<!-- .element: class="fragment" -->
+- Strategies: affirmation and transformation<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Non-Profit Social Service Provision
+- Limited reach vs. state social services<!-- .element: class="fragment" -->
+- Reliance upon funding<!-- .element: class="fragment" -->
+- Flexibility, local focus, can try innovative program delivery approaches<!-- .element: class="fragment" -->
+
+### Questions
+- Which injustices do we seek to address?<!-- .element: class="fragment" -->
+- ...through which activities?<!-- .element: class="fragment" -->
+- ...following which strategies?<!-- .element: class="fragment" -->
+- ...recognizing the resources and constraints we face as a non-profit.<!-- .element: class="fragment" -->

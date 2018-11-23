@@ -91,15 +91,15 @@ Note:
 
 ## Research Questions
 
-# VSLIDE
+#VSLIDE
 
 - What is the theory of change underlying nonprofit access to benefits programs?
 
-# VSLIDE
+#VSLIDE
 
 - How do nonprofit access to benefits programs contribute to socioeconomic justice?
 
-# VSLIDE
+#VSLIDE
 
 - Is government investment in nonprofit access to benefits programs a sign of progress towards socioeconomic justice or evidence of the offloading of public responsibility for social welfare?
 

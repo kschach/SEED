@@ -1,3 +1,4 @@
 theme : night
 theme-override : PITCHME.css
-layout : top-left
+layout : center-left
+published : true

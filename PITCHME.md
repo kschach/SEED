@@ -91,11 +91,17 @@ Note:
 
 ## Research Questions
 
-- What is the theory of change underlying nonprofit access to benefits programs?<!-- .element: class="fragment" -->
+# VSLIDE
 
-- How do nonprofit access to benefits programs contribute to socioeconomic justice?<!-- .element: class="fragment" -->
+- What is the theory of change underlying nonprofit access to benefits programs?
 
-- Is government investment in nonprofit access to benefits programs a sign of progress towards socioeconomic justice or evidence of the offloading of public responsibility for social welfare?<!-- .element: class="fragment" -->
+# VSLIDE
+
+- How do nonprofit access to benefits programs contribute to socioeconomic justice?
+
+# VSLIDE
+
+- Is government investment in nonprofit access to benefits programs a sign of progress towards socioeconomic justice or evidence of the offloading of public responsibility for social welfare?
 
 #HSLIDE
 

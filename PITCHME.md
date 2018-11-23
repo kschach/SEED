@@ -3,7 +3,7 @@
 
 #VSLIDE
 
-#### Kevin Schachter<!-- .element: class="fragment" -->
+**Kevin Schachter**<!-- .element: class="fragment" -->
 
 - MA Student, Department of Sociology and Criminology, University of Manitoba<!-- .element: class="fragment" -->
 
@@ -38,7 +38,7 @@ Note:
 
 #VSLIDE
 
-#### Nonprofit programs support community members to...
+**Nonprofit programs support community members to...**
 - File income tax returns<!-- .element: class="fragment" -->
 - Submit benefit applications<!-- .element: class="fragment" -->
     - Canada Child Benefit<!-- .element: class="fragment" -->
@@ -47,7 +47,7 @@ Note:
 
 #VSLIDE
 
-#### Nonprofit programs support community members to...
+**Nonprofit programs support community members to...**
 - Learn about and advocate for their rights<!-- .element: class="fragment" -->
     - Employment and Income Assistance<!-- .element: class="fragment" -->
     - Employment Insurance<!-- .element: class="fragment" -->
@@ -56,7 +56,7 @@ Note:
 
 #VSLIDE
 
-#### This work is supported by...
+**This work is supported by...**
 - Government agencies<!-- .element: class="fragment" -->
 - Charitable foundations<!-- .element: class="fragment" -->
 - Private donations<!-- .element: class="fragment" -->
@@ -153,9 +153,6 @@ Note: Not ready to share results at this stage, but can speak to some of the iss
 #HSLIDE
 
 ## Access to Benefits and Socioeconomic Justice
-
-#VSLIDE
-
 - What is socioeconomic justice?<!-- .element: class="fragment" -->
 - How can it be attained?<!-- .element: class="fragment" -->
 
@@ -178,22 +175,26 @@ In looking at the program model...
 #HSLIDE
 
 ## Income Transfers and Socioeconomic Justice
-
-#VSLIDE
-### Social Welfare and Fiscal Welfare (Titmuss 1965; Abramovitz 1983/2001)
-- Social welfare<!-- .element: class="fragment" -->
-    - Income transfers outside of the tax system<!-- .element: class="fragment" -->
-    - Stigmatized<!-- .element: class="fragment" -->
-    - Less generous<!-- .element: class="fragment" -->
-    - More controlling<!-- .element: class="fragment" -->
-    - Subject to caseworker discretion / "street-level bureaucracy" (Lipsky 1980)<!-- .element: class="fragment" --> 
+- How do government income transfers contribute to socioeconomic justice?<!-- .element: class="fragment" -->
 
 #VSLIDE
 ### Social Welfare and Fiscal Welfare
-- Fiscal welfare<!-- .element: class="fragment" -->
-    - More generous<!-- .element: class="fragment" -->
-    - Inequitable distribution<!-- .element: class="fragment" -->
-    - Barriers to access (requires tax filing)<!-- .element: class="fragment" -->
+- Titmuss (1965)<!-- .element: class="fragment" --> 
+- Abramovitz (1983/2001)<!-- .element: class="fragment" -->
+
+#VSLIDE
+**Social welfare**
+- Income transfers outside of the tax system<!-- .element: class="fragment" -->
+- Stigmatized<!-- .element: class="fragment" -->
+- Less generous<!-- .element: class="fragment" -->
+- More controlling<!-- .element: class="fragment" -->
+- Subject to caseworker discretion / "street-level bureaucracy" (Lipsky 1980)<!-- .element: class="fragment" --> 
+
+#VSLIDE
+**Fiscal Welfare**
+- More generous<!-- .element: class="fragment" -->
+- Inequitable distribution<!-- .element: class="fragment" -->
+- Barriers to access (requires tax filing)<!-- .element: class="fragment" -->
 
 #VSLIDE
 ### Key Question

@@ -1,6 +1,6 @@
 theme : night
-theme-override : PITCHME.css
-layout : center-left
+#theme-override : PITCHME.css
+layout : top-left
 published : true
 eager-loading : true
 footnote: "Manitoba Research Alliance Student Colloquium - November 23, 2018"

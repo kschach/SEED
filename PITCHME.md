@@ -124,14 +124,14 @@ Note:
 
 ## Literature Review
 - Socioeconomic justice<!-- .element: class="fragment" -->
-- Social welfare via the welfare state (focus on income transfers)<!-- .element: class="fragment" -->
+- Social welfare via the welfare state<!-- .element: class="fragment" -->
 - Nonprofit social service provision<!-- .element: class="fragment" -->
 - Social change through social service<!-- .element: class="fragment" -->
 
 #HSLIDE
 
 ## Intended Outcomes
-- MA thesis<!-- .element: class="fragment" -->
+- MA Thesis<!-- .element: class="fragment" -->
 - Knowledge mobilization<!-- .element: class="fragment" -->
     - practitioners<!-- .element: class="fragment" -->
     - academic community<!-- .element: class="fragment" -->
@@ -152,7 +152,7 @@ Note: Not ready to share results at this stage, but can speak to some of the iss
 
 #HSLIDE
 
-## Access to Benefits and Socioeconomic Justice
+### Access to Benefits and Socioeconomic Justice
 - What is socioeconomic justice?<!-- .element: class="fragment" -->
 - How can it be attained?<!-- .element: class="fragment" -->
 
@@ -174,7 +174,7 @@ In looking at the program model...
 
 #HSLIDE
 
-## Income Transfers and Socioeconomic Justice
+### Income Transfers and Socioeconomic Justice
 - How do government income transfers contribute to socioeconomic justice?<!-- .element: class="fragment" -->
 
 #VSLIDE
@@ -202,7 +202,13 @@ In looking at the program model...
 
 #VSLIDE 
 
-### Criteria for Effective Poverty Relief (Behrendt 2002; Barr 2012)
+### Criteria for Effective Poverty Relief 
+- Behrendt (2002)<!-- .element: class="fragment" -->
+- Barr (2012)<!-- .element: class="fragment" -->
+
+#VSLIDE 
+
+### Criteria for Effective Poverty Relief 
 - Benefit adequacy<!-- .element: class="fragment" -->
 - Appropriate eligibility criteria<!-- .element: class="fragment" -->
 - Actual take-up by target population<!-- .element: class="fragment" -->
@@ -214,7 +220,7 @@ In looking at the program model...
 
 #HSLIDE
 
-## The Role of the State in Ensuring Access to Benefits
+### The Role of the State in Ensuring Access to Benefits
 
 #VSLIDE
 ### Ebb and Flow of State Investment
@@ -226,7 +232,7 @@ In looking at the program model...
 
 #VSLIDE
 ### Investment
-- Minister of National Revenue mandate letter (2015) -- Canada Revenue Agency should support low-income Canadians to file tax returns and access benefits<!-- .element: class="fragment" -->
+- Minister of National Revenue mandate letter (2015): Canada Revenue Agency should support low-income Canadians to file tax returns and access benefits<!-- .element: class="fragment" -->
 - Increase in Canada Revenue Agency supports to community members and service providers<!-- .element: class="fragment" -->
 - Federal and Provincial investment in nonprofit access to benefits programs<!-- .element: class="fragment" -->
 
@@ -235,15 +241,18 @@ In looking at the program model...
 - What does government investment in nonprofit access to benefits programs signify?<!-- .element: class="fragment" -->
 
 #VSLIDE
-- Strategic partnership<!--.element: class="fragment" --> 
-    - leveraging the comparative advantages of each sector in service of a common good<!--.element: class="fragment" --> 
-    - solving the "last mile" problem for vulnerable communities (Prosper Canada)<!--.element: class="fragment" -->
+**Strategic Partnership**<!--.element: class="fragment" --> 
+- leveraging the comparative advantages of each sector in service of a common good<!--.element: class="fragment" --> 
+- solving the "last mile" problem for vulnerable communities (Prosper Canada)<!--.element: class="fragment" -->
+
+#VSLIDE
+**Disentitlement**<!--.element: class="fragment" --> 
 - Bureaucratic disentitlement (Lipsky 1984)<!-- .element: class="fragment" -->
 - A reduction in the status of benefits: from entitlement to charitable aid (Wolch 1989; Roy 2004) <!-- .element: class="fragment" -->
 
 #VSLIDE
 
-## Nonprofit Social Service Provision
+### Nonprofit Social Service Provision
 
 #VSLIDE
 ### Potential Benefits
@@ -271,10 +280,10 @@ In looking at the program model...
 #VSLIDE
 ### Potential Drawbacks
 - functioning as a "shadow state" (Wolch 1989)
-@quote[fragment][a para-state apparatus with collective service responsibilities previously shouldered by the public sector, administered outside democratic politics, but yet controlled in both formal and informal ways by the state.](Wolch 1989:201)
+@quote[a para-state apparatus with collective service responsibilities previously shouldered by the public sector, administered outside democratic politics, but yet controlled in both formal and informal ways by the state.](Wolch 1989:201)<!-- .element: class="fragment" -->
 
 #VSLIDE
-## Key Questions
+### Key Questions
 - How can nonprofit access to benefits programs contribute to redistribution given these structural constraints?<!-- .element: class="fragment" -->
 - How can nonprofit access to benefits programs connect social service delivery with social change efforts?<!-- .element: class="fragment" -->
 

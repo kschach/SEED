@@ -3,7 +3,7 @@
 
 #VSLIDE
 
-**Kevin Schachter**<!-- .element: class="fragment" -->
+### Kevin Schachter<!-- .element: class="fragment" -->
 
 - MA Student, Department of Sociology and Criminology, University of Manitoba<!-- .element: class="fragment" -->
 
@@ -38,7 +38,7 @@ Note:
 
 #VSLIDE
 
-**Nonprofit programs support community members to...**
+### Nonprofit programs support community members to...
 - File income tax returns<!-- .element: class="fragment" -->
 - Submit benefit applications<!-- .element: class="fragment" -->
     - Canada Child Benefit<!-- .element: class="fragment" -->
@@ -47,7 +47,7 @@ Note:
 
 #VSLIDE
 
-**Nonprofit programs support community members to...**
+### Nonprofit programs support community members to...
 - Learn about and advocate for their rights<!-- .element: class="fragment" -->
     - Employment and Income Assistance<!-- .element: class="fragment" -->
     - Employment Insurance<!-- .element: class="fragment" -->
@@ -56,7 +56,7 @@ Note:
 
 #VSLIDE
 
-**This work is supported by...**
+### This work is supported by...
 - Government agencies<!-- .element: class="fragment" -->
 - Charitable foundations<!-- .element: class="fragment" -->
 - Private donations<!-- .element: class="fragment" -->
@@ -68,7 +68,6 @@ Note:
 - SEED Winnipeg <!-- .element: class="fragment" -->
 - Community Financial Counselling Services<!-- .element: class="fragment" -->
 - Several community partners<!-- .element: class="fragment" -->
-
 - Jointly selected by Prosper Canada as a National Financial Empowerment Champion<!-- .element: class="fragment" -->
 
 Note:
@@ -92,15 +91,15 @@ Note:
 ## Research Questions
 
 #VSLIDE
-
+### Research Questions 
 - What is the theory of change underlying nonprofit access to benefits programs?
 
 #VSLIDE
-
+### Research Questions 
 - How do nonprofit access to benefits programs contribute to socioeconomic justice?
 
 #VSLIDE
-
+### Research Questions 
 - Is government investment in nonprofit access to benefits programs a sign of progress towards socioeconomic justice or evidence of the offloading of public responsibility for social welfare?
 
 #HSLIDE
@@ -109,20 +108,20 @@ Note:
 
 #VSLIDE
 
-## Primary Research Methods
+### Primary Research Methods
 - Key person interviews<!-- .element: class="fragment" -->
 - Document analysis<!-- .element: class="fragment" -->
 
 #VSLIDE
 
-## Status
+### Status
 - Completed key person interviews with six people working in the field<!-- .element: class="fragment" -->
 - Analysis in progress<!-- .element: class="fragment" -->
 - Member checking pending<!-- .element: class="fragment" -->
 
 #VSLIDE
 
-## Literature Review
+### Literature Review
 - Socioeconomic justice<!-- .element: class="fragment" -->
 - Social welfare via the welfare state<!-- .element: class="fragment" -->
 - Nonprofit social service provision<!-- .element: class="fragment" -->
@@ -131,6 +130,9 @@ Note:
 #HSLIDE
 
 ## Intended Outcomes
+
+#VSLIDE 
+### Intended Outcomes
 - MA Thesis<!-- .element: class="fragment" -->
 - Knowledge mobilization<!-- .element: class="fragment" -->
     - practitioners<!-- .element: class="fragment" -->
@@ -183,7 +185,7 @@ In looking at the program model...
 - Abramovitz (1983/2001)<!-- .element: class="fragment" -->
 
 #VSLIDE
-**Social welfare**
+### Social welfare
 - Income transfers outside of the tax system<!-- .element: class="fragment" -->
 - Stigmatized<!-- .element: class="fragment" -->
 - Less generous<!-- .element: class="fragment" -->
@@ -191,7 +193,7 @@ In looking at the program model...
 - Subject to caseworker discretion / "street-level bureaucracy" (Lipsky 1980)<!-- .element: class="fragment" --> 
 
 #VSLIDE
-**Fiscal Welfare**
+### Fiscal Welfare
 - More generous<!-- .element: class="fragment" -->
 - Inequitable distribution<!-- .element: class="fragment" -->
 - Barriers to access (requires tax filing)<!-- .element: class="fragment" -->
@@ -241,12 +243,12 @@ In looking at the program model...
 - What does government investment in nonprofit access to benefits programs signify?<!-- .element: class="fragment" -->
 
 #VSLIDE
-**Strategic Partnership**<!--.element: class="fragment" --> 
+### Strategic Partnership
 - leveraging the comparative advantages of each sector in service of a common good<!--.element: class="fragment" --> 
 - solving the "last mile" problem for vulnerable communities (Prosper Canada)<!--.element: class="fragment" -->
 
 #VSLIDE
-**Disentitlement**<!--.element: class="fragment" --> 
+### Disentitlement
 - Bureaucratic disentitlement (Lipsky 1984)<!-- .element: class="fragment" -->
 - A reduction in the status of benefits: from entitlement to charitable aid (Wolch 1989; Roy 2004) <!-- .element: class="fragment" -->
 

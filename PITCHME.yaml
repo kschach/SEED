@@ -1,5 +1,5 @@
 theme : night
-#theme-override : PITCHME.css
+theme-override : PITCHME.css
 layout : top-left
 published : true
 eager-loading : true

@@ -2,3 +2,4 @@ theme : night
 theme-override : PITCHME.css
 layout : center-left
 published : true
+eager-loading : true

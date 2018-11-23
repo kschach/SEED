@@ -92,15 +92,15 @@ Note:
 
 #VSLIDE
 ### Research Questions 
-- What is the theory of change underlying nonprofit access to benefits programs?
+- What is the theory of change underlying nonprofit access to benefits programs?<!-- .element: class="fragment" -->
 
 #VSLIDE
 ### Research Questions 
-- How do nonprofit access to benefits programs contribute to socioeconomic justice?
+- How do nonprofit access to benefits programs contribute to socioeconomic justice?<!-- .element: class="fragment" -->
 
 #VSLIDE
 ### Research Questions 
-- Is government investment in nonprofit access to benefits programs a sign of progress towards socioeconomic justice or evidence of the offloading of public responsibility for social welfare?
+- Is government investment in nonprofit access to benefits programs a sign of progress towards socioeconomic justice or evidence of the offloading of public responsibility for social welfare?<!-- .element: class="fragment" -->
 
 #HSLIDE
 
@@ -185,7 +185,7 @@ In looking at the program model...
 - Abramovitz (1983/2001)<!-- .element: class="fragment" -->
 
 #VSLIDE
-### Social welfare
+#### Social Welfare
 - Income transfers outside of the tax system<!-- .element: class="fragment" -->
 - Stigmatized<!-- .element: class="fragment" -->
 - Less generous<!-- .element: class="fragment" -->
@@ -193,7 +193,7 @@ In looking at the program model...
 - Subject to caseworker discretion / "street-level bureaucracy" (Lipsky 1980)<!-- .element: class="fragment" --> 
 
 #VSLIDE
-### Fiscal Welfare
+#### Fiscal Welfare
 - More generous<!-- .element: class="fragment" -->
 - Inequitable distribution<!-- .element: class="fragment" -->
 - Barriers to access (requires tax filing)<!-- .element: class="fragment" -->
@@ -228,12 +228,12 @@ In looking at the program model...
 ### Ebb and Flow of State Investment
 
 #VSLIDE
-### Withdrawal
+#### Withdrawal
 - Closure of in-person Tax Services Offices by Canada Revenue Agency<!-- .element: class="fragment" -->
 - Scaleback of Community Volunteer Income Tax Program (CVITP) coordination and supports<!-- .element: class="fragment" -->
 
 #VSLIDE
-### Investment
+#### Investment
 - Minister of National Revenue mandate letter (2015): Canada Revenue Agency should support low-income Canadians to file tax returns and access benefits<!-- .element: class="fragment" -->
 - Increase in Canada Revenue Agency supports to community members and service providers<!-- .element: class="fragment" -->
 - Federal and Provincial investment in nonprofit access to benefits programs<!-- .element: class="fragment" -->
@@ -243,12 +243,12 @@ In looking at the program model...
 - What does government investment in nonprofit access to benefits programs signify?<!-- .element: class="fragment" -->
 
 #VSLIDE
-### Strategic Partnership
+#### Strategic Partnership
 - leveraging the comparative advantages of each sector in service of a common good<!--.element: class="fragment" --> 
 - solving the "last mile" problem for vulnerable communities (Prosper Canada)<!--.element: class="fragment" -->
 
 #VSLIDE
-### Disentitlement
+#### Disentitlement
 - Bureaucratic disentitlement (Lipsky 1984)<!-- .element: class="fragment" -->
 - A reduction in the status of benefits: from entitlement to charitable aid (Wolch 1989; Roy 2004) <!-- .element: class="fragment" -->
 

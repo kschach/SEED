@@ -1,5 +1,65 @@
-## Socioeconomic Justice through the Non-profit Sector?<!-- .element: class="fragment" -->
-### Access to Benefits Programs in Winnipeg, MB<!-- .element: class="fragment" -->
+## Socioeconomic Justice through the Nonprofit Sector?<!-- .element: class="fragment" -->
+### Access to Benefits Programs in Inner-city Winnipeg<!-- .element: class="fragment" -->
+- Kevin Schachter<!-- .element: class="fragment" -->
+
+#VSLIDE
+
+- MA Student, Department of Sociology and Criminology, University of Manitoba<!-- .element: class="fragment" -->
+
+- Information Manager, SEED Winnipeg<!-- .element: class="fragment" -->
+
+#HSLIDE
+
+## Access to Benefits
+
+#VSLIDE
+
+###The Problem
+- Many welfare state income transfers are targeted to residents living on low incomes.<!-- .element: class="fragment" -->
+- Low-income community members face systemic barriers that can prevent access to these entitlements (Shillington 2011).<!-- .element: class="fragment" -->
+- Lack of access can have severe, negative impacts for those without adequate income prior to government transfers (social and financial exclusion, social determinants of health).<!-- .element: class="fragment" -->
+
+#VSLIDE
+
+###The Remedy: Supported Access
+- Government agencies, nonprofit organizations, and the private sector each have a role to play in connecting community members to benefits<!-- .element: class="fragment" -->
+- Nonprofit organizations are well-positioned to support vulnerable community members<!-- .element: class="fragment" -->
+
+#VSLIDE
+
+###Nonprofit programs support community members to...
+- File income tax returns<!-- .element: class="fragment" -->
+- Submit benefit applications<!-- .element: class="fragment" -->
+    - Canada Child Benefit<!-- .element: class="fragment" -->
+    - Disability Tax Credit<!-- .element: class="fragment" -->
+    - RentAssist<!-- .element: class="fragment" -->
+- Learn about and advocate for their rights<!-- .element: class="fragment" -->
+    - Employment and Income Assistance<!-- .element: class="fragment" -->
+    - Employment Insurance<!-- .element: class="fragment" -->
+- Obtain government ID<!-- .element: class="fragment" -->
+
+#VSLIDE
+
+###This work is supported by...
+- Government agencies<!-- .element: class="fragment" -->
+- Charitable foundations<!-- .element: class="fragment" -->
+- Private donations<!-- .element: class="fragment" -->
+- Volunteer labour<!-- .element: class="fragment" -->
+
+#VSLIDE
+
+###Financial Empowerment Champions
+- SEED Winnipeg <!-- .element: class="fragment" -->
+- Community Financial Counselling Services<!-- .element: class="fragment" -->
+- Several community partners<!-- .element: class="fragment" -->
+- Selected by Prosper Canada as a National Financial Empowerment Champion<!-- .element: class="fragment" -->
+
+#VSLIDE
+
+###Key Indicators (2016 - 2018)
+- Over 23,000 tax returns filed<!-- .element: class="fragment" -->
+- Over 1,600 benefit applications submitted<!-- .element: class="fragment" -->
+- An estimated $71,000,000 in income benefits accessed by low-income Manitobans<!-- .element: class="fragment" -->
 
 #HSLIDE
 
